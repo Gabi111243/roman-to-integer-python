@@ -1,0 +1,7 @@
+tkinter
+unittest
+argparse
+os
+sys
+
+# No external packages needed - all dependencies are in Python standard library
